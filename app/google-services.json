@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "789461915239",
+    "project_id": "pdsa-ii-cw",
+    "storage_bucket": "pdsa-ii-cw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789461915239:android:dbf30f65012316ac2326c2",
+        "android_client_info": {
+          "package_name": "com.bsc212.pdsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789461915239-vd74oc1iak0gtvi3ieqqcqptludeh6sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj02dGeOvBlGHgm81RmCYTKHtD16JADPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789461915239-vd74oc1iak0gtvi3ieqqcqptludeh6sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
